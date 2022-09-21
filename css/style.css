@@ -1,0 +1,79 @@
+.round {
+    border-radius: 50%;
+    text-align: center;
+    margin: 44px 0 0 0;
+   }
+
+.title {
+    text-align: center;
+    font-size: 35px;
+}
+
+.title2 {
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 19px;
+    margin: 4px 2px;
+}
+
+.button2 {
+    background-color: white; 
+    color: blue; 
+    border: 2px solid #008CBA;
+    border-radius: 11%;
+    margin: 0 auto;
+}
+
+.testbutton {
+    margin: 0 0 66px 756px;
+}
+
+.title3 {
+    margin: 55px 375px 0 375px;
+    text-align: center;
+    font-size: 18px;
+    background-color: rgb(207, 207, 207);
+    border-radius: 3%;
+}
+
+.textcols {
+	display: table;
+	width: 100%;
+}
+.textcols-row {
+	 display: table-row;
+}
+.textcols-item {
+	display: table-cell;	
+	width: 50%;
+
+	padding: 0;
+	background: rgb(207, 207, 207);
+}
+.textcols-row .textcols-item:first-child {
+	border: 0 0 0 444px;
+}
+.textcols-row .textcols-item:last-child {
+	border: 0 444px 0 0;
+}
+
+.buton {
+    padding: 10px 16px;
+    display: inline-block;
+    font-size: 11px;
+    margin: 4px 2px;
+}
+
+.buton2 {
+    border: 2px solid rgb(123, 123, 123);
+    border-radius: 11%;
+    margin: 0 auto;
+}
